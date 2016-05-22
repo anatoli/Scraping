@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "name": "ferra-scraper",
+  "version": "0.0.1",
+  "description": "Web scraping example for habrahabr",
+  "main": "index.js",
+  "author": "astur <astur@yandex.ru> (http://kozlov.am/)",
+  "license": "WTFPL",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "needle": "^1.0.0",
+    "tress": "^1.0.0"
+  }
+}
