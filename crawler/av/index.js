@@ -1,3 +1,4 @@
+var log = require('cllc')();
 var tress = require('tress');
 var needle = require('needle');
 var cheerio = require('cheerio');
@@ -17,7 +18,10 @@ var AV = module.exports = function () {
 // todo получение списка всех ссылок на все марки
     var q = tress(function (url, callback) {
         needle.get(url, function (err, res) {
-            if (err) throw err;
+            if (err || res.statusCode !== 200) {
+                log.e((err || res.statusCode) + ' - ' + url);
+                return callback(true); // возвращаем url в начало очереди
+            }
 
             var $ = cheerio.load(res.body);
 
@@ -31,7 +35,7 @@ var AV = module.exports = function () {
             });
             callback();
         });
-    }, 10);
+    }, -3000);
 
     q.drain = function () {
         fs.writeFileSync('./av/' + URL.name + '.json', JSON.stringify(base, null, 4));
@@ -39,8 +43,21 @@ var AV = module.exports = function () {
         for (i = 0; i < base.length; i++) {
             sch_link.push(module_detail(base[i].link));
         }
-        console.log(sch_link);
+        // console.log(sch_link);
+        log.finish();
+        log('Работа закончена');
     }
+    q.retry = function(){
+        q.pause();
+        // в this лежит возвращённая в очередь задача.
+        log.i('Paused on:', this);
+        setTimeout(function(){
+            q.resume();
+            log.i('Resumed');
+        }, 300000); // 5минут av. часто валит сокет изза парсинга
+    }
+
+
 
     q.push(URL.URL);
 

@@ -1,6 +1,7 @@
 /**
  * Created by arinovich.anatoli on 05.06.2017.
  */
+var log = require('cllc')();
 var tress = require('tress');
 var needle = require('needle');
 var cheerio = require('cheerio');
@@ -13,7 +14,10 @@ var module_detail = module.exports = function (URL) {
 
     var q = tress(function(url, callback){
         needle.get(url, function(err, res){
-            if (err) throw err;
+            if (err || res.statusCode !== 200) {
+                log.e((err || res.statusCode) + ' - ' + url);
+                return callback(true); // возвращаем url в начало очереди
+            }
 
             var $ = cheerio.load(res.body);
 
@@ -54,20 +58,24 @@ var module_detail = module.exports = function (URL) {
 
             callback();
         });
-    }, 10);
+    }, -3000);
 
     q.drain = function(){
         fs.writeFileSync('./av/av_next.json', JSON.stringify(results, null, 4));
         console.log('finish');
 
     }
+    q.retry = function(){
+        q.pause();
+        // в this лежит возвращённая в очередь задача.
+        log.i('Paused on:', this);
+        setTimeout(function(){
+            q.resume();
+            log.i('Resumed');
+        }, 300000); // 5минут av. часто валит сокет изза парсинга
+    }
 
     q.push(URL);
-    q.error = function(err) {
-        console.log('Job ' + this + ' failed with error ' + err);
-
-        return(err)
-    };
 
     return results
 

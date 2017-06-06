@@ -1,6 +1,7 @@
 /**
  * Created by arinovich.anatoli on 05.06.2017.
  */
+var log = require('cllc')();
 var tress = require('tress');
 var needle = require('needle');
 var cheerio = require('cheerio');
@@ -11,20 +12,12 @@ var results = [];
 
 var module_detail = module.exports = function (URL) {
 
-    var q = tress(function(url, callback){
+    var q = tress(
+        function(url, callback){
         needle.get(url, function(err, res){
-            if (err){
-                q.pause();
-                    console.log({
-                        wait: q.waiting,
-                        active: q.active,
-                        failed: q.failed
-                    })
-                setInterval(function () {
-                    q.resume();
-                },3000)
-                throw err;
-
+            if (err || res.statusCode !== 200) {
+                log.e((err || res.statusCode) + ' - ' + url);
+                return callback(true); // возвращаем url в начало очереди
             }
 
             var $ = cheerio.load(res.body);
@@ -58,7 +51,7 @@ var module_detail = module.exports = function (URL) {
 
             callback();
         });
-    }, 1);
+    }, -3000);
 
     q.drain = function(){
         fs.writeFileSync('./abw/abw_next.json', JSON.stringify(results, null, 4));
@@ -66,8 +59,16 @@ var module_detail = module.exports = function (URL) {
 
     }
 
-    // var pause = q.pause()
-    // var resume = q.resume();
+    q.retry = function(){
+        q.pause();
+        // в this лежит возвращённая в очередь задача.
+        log.i('Paused on:', this);
+        setTimeout(function(){
+            q.resume();
+            log.i('Resumed');
+        }, 120000); // 2минут
+    }
+
     q.push(URL);
 
     return results
