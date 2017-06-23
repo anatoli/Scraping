@@ -35,14 +35,14 @@ var AV = module.exports = function () {
             });
             callback();
         });
-    }, -3000);
+    }, 20);
 
     q.drain = function () {
         fs.writeFileSync('./av/' + URL.name + '.json', JSON.stringify(base, null, 4));
         var sch_link = [];
-        for (i = 0; i < base.length; i++) {
-            sch_link.push(module_detail(base[i].link));
-        }
+        base.forEach(function(item, i, arr) {
+            sch_link.push(module_detail(item.link));
+        });
         // console.log(sch_link);
         log.finish();
         log('Работа закончена');

@@ -9,6 +9,7 @@ var resolve = require('url').resolve;
 var fs = require('fs');
 
 var results = [];
+var call_stack = [];
 
 var module_detail = module.exports = function (URL) {
 
@@ -33,21 +34,15 @@ var module_detail = module.exports = function (URL) {
                         USD:$('.listing-item-price small').eq(i).text().trim()
                     },
                     location: $('.listing-item-location').eq(i).text().trim(),
-                    img: $('.product-thumb >img').attr('src'),
+                    img: $('.product-thumb img').attr('src'),
 
                 });
             });
-            // if($('.listing-wrap')){
-            //     console.log($('.listing-wrap .listing-item'));
-            //     results.push({
-            //         title: $('h1').text(),
-            //         date: $('.b_infopost>.date').text(),
-            //         href: url
-            //     });
-            // }
 
             $('.pages-numbers-link').each(function() {
-                q.push($(this).attr('href')); // todo проверить выполнение. первая ссылка пагинатора общая
+                call_stack.push($(this).attr('href'))
+
+                // q.push($(this).attr('href')); // todo проверить выполнение. первая ссылка пагинатора общая
                 // console.log(this.attr('href'))
             });
 
@@ -55,13 +50,22 @@ var module_detail = module.exports = function (URL) {
             //     q.push(resolve(URL+'', $(this).attr('href')));
             // });
             console.log(results);
-
             callback();
         });
-    }, -3000);
+    }, 20);
 
     q.drain = function(){
         fs.writeFileSync('./av/av_next.json', JSON.stringify(results, null, 4));
+        var i=1;
+
+        var myTimer = setInterval(function () {
+          i++ ;
+          if (i < call_stack.length){
+              q.push(call_stack[i])
+          } else {
+              clearInterval(myTimer);
+          }
+        }, 3000);
         console.log('finish');
 
     }

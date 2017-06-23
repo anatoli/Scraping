@@ -51,7 +51,7 @@ var module_detail = module.exports = function (URL) {
 
             callback();
         });
-    }, -3000);
+    }, 20);
 
     q.drain = function(){
         fs.writeFileSync('./abw/abw_next.json', JSON.stringify(results, null, 4));

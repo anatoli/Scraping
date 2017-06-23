@@ -2,9 +2,9 @@
   "private": true,
   "name": "ferra-scraper",
   "version": "0.0.1",
-  "description": "Web scraping example for habrahabr",
+  "description": "Для отработки скрапа необходимо создать каталоги в корне одноименные каталогам с сраберами",
   "main": "index.js",
-  "author": "",
+  "author": "Anatoli7383",
   "license": "",
   "dependencies": {
     "cheerio": "^0.20.0",
