@@ -4,17 +4,34 @@ var needle = require('needle');
 var cheerio = require('cheerio');
 var resolve = require('url').resolve;
 var fs = require('fs');
+var request = require('request-promise');
 var module_detail = require('./module_detail');
 
 var URL = {
-        name: 'av',
-        URL: 'https://cars.av.by/'
+        name: 'av_id',
+        URL: 'https://cars.av.by'
+}
+
+var brand = []; // todo массив ссылок на полный список с https://cars.av.by
+
+var AV = module.exports = function () { // brand, model, year_from, year_to,price_from, price_to
+
+
+    function modelsBrands(id) { // возвращает список моделей для id - бренда.
+
+        const options = {
+            method: 'GET',
+            uri: "https://av.by/public/parameters.php?event=Model_List_Search&category_parent="+id }
+​
+        request(options)
+            .then(function (res) {
+                return res.data;
+            })
+            .catch(function (err) {
+               console.log(err)
+            })
     }
 
-var results = [];
-var base = []; // todo массив ссылок на полный список с https://cars.av.by
-
-var AV = module.exports = function () {
 // todo получение списка всех ссылок на все марки
     var q = tress(function (url, callback) {
         needle.get(url, function (err, res) {
@@ -24,26 +41,23 @@ var AV = module.exports = function () {
             }
 
             var $ = cheerio.load(res.body);
+            $('select[name *= "brand_id"] option').each(function () {
+                var id = $(this).attr('value');
+                var name = $(this).text();
+                brand.push({
+                    id: id,
+                    name: name,
+                    model_array: modelsBrands(id)
 
-            //Todo собирает список марок с домашней страницы AV.by
-            $('ul.brandslist > li.brandsitem.brandsitem--primary').each(function (i) {
-                base.push({
-                    name: $('li.brandsitem.brandsitem--primary span').eq(i).text(),
-                    count: $('li.brandsitem.brandsitem--primary small').eq(i).text(), // может понадобится для определения изменений в списке (количество записей по марке)
-                    link: $('li.brandsitem.brandsitem--primary a').eq(i).attr('href')
-                });
-            });
-            callback();
+                })
+            })
+            console.log(res.body);
+            console.log(brand);
         });
-    }, 20);
+    }, -1000);
 
     q.drain = function () {
-        fs.writeFileSync('./av/' + URL.name + '.json', JSON.stringify(base, null, 4));
-        var sch_link = [];
-        base.forEach(function(item, i, arr) {
-            sch_link.push(module_detail(item.link));
-        });
-        // console.log(sch_link);
+        fs.writeFileSync('./av/' + URL.name + '.json', JSON.stringify(brand, null, 4));
         log.finish();
         log('Работа закончена');
     }
@@ -56,8 +70,6 @@ var AV = module.exports = function () {
             log.i('Resumed');
         }, 300000); // 5минут av. часто валит сокет изза парсинга
     }
-
-
 
     q.push(URL.URL);
 

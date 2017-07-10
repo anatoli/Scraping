@@ -9,8 +9,11 @@
   "dependencies": {
     "cheerio": "^0.20.0",
     "cllc": "0.0.10",
+    "http": "0.0.0",
+    "https": "^1.0.0",
     "needle": "^1.0.0",
     "request": "^2.81.0",
+    "request-promise": "^4.2.1",
     "tress": "^1.0.0"
   }
 }

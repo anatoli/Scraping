@@ -11,8 +11,11 @@ var URL = {
         URL: 'https://www.abw.by/'
     }
 
+https://www.abw.by/car/sell/?search=1&type=1&sort=&marka%5B%5D=102&model%5B%5D=1214&capacity1=&capacity2=&mileage1=&mileage2=&year1=1996&year2=2017&price1=100&price2=7000&country=&text=&day=
+
 var results = [];
 var base = []; // todo массив ссылок на полный список с https://cars.av.by
+
 
 var ABW = module.exports = function () {
 // todo получение списка всех ссылок на все марки
