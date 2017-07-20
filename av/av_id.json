@@ -1,0 +1,2026 @@
+[
+    {
+        "id": "1444",
+        "name": "Acura",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 14:59:50 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=hr7cud27bp1rf0v3tn8iisl106; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 14:59:50 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n1445=CL\n2416=ILX\n1449=MDX\n2133=RDX\n1451=RL\n1452=RSX\n1764=TL\n1454=TSX\n2131=ZDX"
+        }
+    },
+    {
+        "id": "1",
+        "name": "Alfa Romeo",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 14:59:51 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=psqc6i7l2a7vlmne1prt7ffpe0; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 14:59:51 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n2=145\n3=146\n1533=147\n4=155\n5=156\n1995=159\n24=164\n25=166\n26=33\n1966=GT\n31=GTV\n2285=MiTo"
+        }
+    },
+    {
+        "id": "2325",
+        "name": "Aston Martin",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 14:59:52 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=2g7v2gg8c8ermq4t9r3jv2riu7; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 14:59:52 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n2327=DB9"
+        }
+    },
+    {
+        "id": "6",
+        "name": "Audi",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 14:59:52 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=0l451qrs2d0npdivgr092eq504; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 14:59:52 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n10=100\n11=200\n7=80\n9=90\n2182=A1\n13=A2\n1428=A3\n2124=A4 (B5)\n14=A4 (B6)\n2128=A4 (B7)\n2126=A4 (B8)\n5162=A4 (B9)\n1992=A5\n15=A6 (C4)\n2145=A6 (C5)\n2149=A6 (C6)\n2434=A6 (C7)\n2278=A7\n16=A8 (D2)\n2140=A8 (D3)\n2710=A8 (D4)\n36=Allroad\n35=Cabriolet\n1588=Coupe\n2316=Q3\n2093=Q5\n1702=Q7\n1933=R8\n27=RS4\n2601=RS6\n20=S4\n2692=S5\n21=S6\n22=S8\n37=TT\n34=V8"
+        }
+    },
+    {
+        "id": "1676",
+        "name": "Bentley",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 14:59:53 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=qv62atv6evi87lg36ne1lqlfj1; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 14:59:53 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n1677=Arnage\n1680=Continental\n5549=Continental Flying Spur\n1681=Continental GT\n1682=Mulsanne\n1683=Turbo R"
+        }
+    },
+    {
+        "id": "8",
+        "name": "BMW",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 14:59:53 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=9jueofu81l2t3jc89fd38phcq0; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 14:59:53 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n1662=1-reihe (E87)\n2574=1-reihe (F20)\n5766=1-reihe (F21)\n2575=2-reihe\n51=3-reihe (E21)\n53=3-reihe (E30)\n49=3-reihe (E36)\n63=3-reihe (E46)\n62=3-reihe (E90)\n1975=3-reihe (E91)\n1976=3-reihe (E92)\n1913=3-reihe (E93)\n2547=3-reihe (F30)\n5767=3-reihe (F31)\n5467=3-reihe (F34)\n2496=4-reihe\n1710=5-reihe (E12)\n68=5-reihe (E28)\n67=5-reihe (E34)\n69=5-reihe (E39)\n78=5-reihe (E60)\n5383=5-reihe (E61)\n2225=5-reihe (F07)\n2138=5-reihe (F10)\n2224=5-reihe (F11)\n83=6-reihe\n93=7-reihe (E23)\n86=7-reihe (E32)\n92=7-reihe (E38)\n89=7-reihe (E65)\n2117=7-reihe (E66)\n2118=7-reihe (F01)\n2120=7-reihe (F02)\n1635=8-reihe (E31)\n2691=i3\n52=M3\n81=M5\n2430=M6\n2207=X1\n1661=X3\n2563=X4\n103=X5 (E53)\n5522=X5 (E70)\n5523=X5 (F15)\n1946=X6\n100=Z-reihe"
+        }
+    },
+    {
+        "id": "2210",
+        "name": "Brilliance",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 14:59:54 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=pa8csvpkourkl6pim29cm89sa5; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 14:59:54 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n2214=BS6\n2708=H230\n5299=V5"
+        }
+    },
+    {
+        "id": "1506",
+        "name": "Buick",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 14:59:55 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=3r3no3dgjb2g6g2dnpjm65sea1; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 14:59:55 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n2447=Enclave\n2570=Encore\n2536=LaCrosse\n1515=Regal"
+        }
+    },
+    {
+        "id": "40",
+        "name": "Cadillac",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 14:59:55 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=5ahde0gq361tnkqi7vqv37b0b1; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 14:59:55 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n2555=ATS\n1972=BLS\n108=Catera\n110=CTS\n111=De Ville\n112=Eldorado\n113=Escalade\n115=Fleetwood\n116=Seville\n117=SRX\n5514=XT5"
+        }
+    },
+    {
+        "id": "2632",
+        "name": "Changan",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 14:59:56 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=sqeors9km1l04vspga9hrrr8l6; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 14:59:56 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n2633=CS35"
+        }
+    },
+    {
+        "id": "1998",
+        "name": "Chery",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 14:59:57 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=v5u93np950os0a4uvilep77ig5; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 14:59:57 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n5096=A13\n2003=A5\n5515=Amulet\n2002=Cowin\n5263=Fora\n2679=Indis\n5337=Kimo\n1999=QQ\n2029=QQ6\n2005=Tiggo\n5787=Tiggo 5"
+        }
+    },
+    {
+        "id": "41",
+        "name": "Chevrolet",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 14:59:57 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=5d6pf1627iqrsi18brv6ngjtk6; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 14:59:57 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n121=Alero\n122=Astro\n1673=Avalanche\n1565=Aveo\n123=Beretta\n124=Blazer\n126=Camaro\n127=Caprice\n2008=Captiva\n128=Cavalier\n1941=Cobalt\n2648=Colorado\n131=Corvette\n2264=Cruze\n1970=Epica\n1596=Equinox\n5185=Evanda\n132=Express\n1765=HHR\n134=Impala\n5258=Kalos\n1936=Lacetti\n1967=Lanos\n136=Malibu\n5150=Matiz\n138=Monte Carlo\n139=Niva\n2208=Nubira\n2265=Orlando\n2007=Rezzo\n5385=Silverado\n2006=Spark\n146=Suburban\n2694=Tacuma\n147=Tahoe\n148=Tracker\n149=TrailBlazer\n2594=Trax\n151=Van\n2524=Volt"
+        }
+    },
+    {
+        "id": "42",
+        "name": "Chrysler",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 14:59:58 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=big4ht0f7h2iaqokojni3nf5e4; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 14:59:58 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n2464=200\n155=300\n2198=Aspen\n156=Cirrus\n157=Concorde\n158=Crossfire\n160=Grand Voyager\n162=Intrepid\n164=LHS\n165=Neon\n166=New Yorker\n167=Pacifica\n169=PT Cruiser\n170=Saratoga\n171=Sebring\n172=Stratus\n173=Town&Country\n176=Voyager"
+        }
+    },
+    {
+        "id": "43",
+        "name": "Citroen",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 14:59:59 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=se2t8oegt6fffae01fbe6k0vr7; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 14:59:59 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n177=AX\n178=Berlingo\n179=BX\n2084=C-Crosser\n2528=C-Elysee\n1916=C1\n1659=C2\n180=C3\n2340=C3 Picasso\n5565=C3 Pluriel\n1742=C4\n5566=C4 Aircross\n2009=C4 Grand Picasso\n1749=C4 Picasso\n181=C5\n2341=C5 (II)\n5568=C5 (X7)\n1639=C6\n182=C8\n2386=DS3\n2508=DS4\n2402=DS5\n184=Evasion\n187=Jumpy\n2085=Nemo\n188=Saxo\n191=Xantia\n192=XM\n193=Xsara\n194=Xsara Picasso\n195=ZX"
+        }
+    },
+    {
+        "id": "1841",
+        "name": "Dacia",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 14:59:59 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=6kbqd6t2qnsh1341fivisbftl1; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 14:59:59 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n5571=Dokker\n2446=Duster\n2382=Lodgy\n1842=Logan\n2495=Sandero"
+        }
+    },
+    {
+        "id": "46",
+        "name": "Daewoo",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:00 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=14n08kp91rb32qlgpds40che51; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:00 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n247=Espero\n2550=Gentra\n1760=Kalos\n5575=Lacetti\n249=Lanos\n250=Leganza\n253=Matiz\n256=Nexia\n257=Nubira\n258=Prince\n260=Rezzo\n5774=Sens\n262=Tacuma\n5538=Winstorm"
+        }
+    },
+    {
+        "id": "47",
+        "name": "Daihatsu",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:00 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=tdhgpgjq4tlhdsp113nqhog1l6; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:00 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n266=Applause\n268=Charade\n269=Copen\n1545=Cuore\n271=Feroza\n272=Gran Move\n2350=Materia\n277=Move\n283=Sirion\n286=Terios\n287=YRV"
+        }
+    },
+    {
+        "id": "2578",
+        "name": "Datsun",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:01 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=37gvu58akj0nasljgijv99f921; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:01 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n2579=mi-DO\n2580=on-DO"
+        }
+    },
+    {
+        "id": "45",
+        "name": "Dodge",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:02 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=b02lldvn8fptlklnso21ln74l7; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:02 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n221=Avenger\n1854=Caliber\n222=Caravan\n1904=Charger\n225=Dakota\n226=Dart\n229=Durango\n231=Grand Caravan\n232=Intrepid\n2122=Journey\n1568=Magnum\n235=Neon\n1901=Nitro\n237=RAM\n241=Stealth\n242=Stratus"
+        }
+    },
+    {
+        "id": "5780",
+        "name": "Dong Feng",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:02 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=elud25tatbgkq972qh0k43jj54; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:02 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n5781=H30"
+        }
+    },
+    {
+        "id": "2465",
+        "name": "FAW",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:03 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=7cofg6jvi38ua9g9qmu667cn20; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:03 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n5588=Oley"
+        }
+    },
+    {
+        "id": "301",
+        "name": "Fiat",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:04 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=fg7cmvkvjg7kkh7dnj5dej3gj7; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:04 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n302=127\n306=500\n5532=500L\n2352=Albea\n309=Brava\n310=Bravo\n1562=Cinquecento\n311=Coupe\n312=Croma\n1550=Doblo\n314=Fiorino\n2534=Freemont\n5599=Fullback\n1986=Grande Punto\n1947=Idea\n1951=Linea\n316=Marea\n317=Multipla\n318=Palio\n319=Panda\n320=Punto\n5600=Punto Evo\n2401=Qubo\n321=Regata\n322=Ritmo\n323=Scudo\n1561=Seicento\n324=Stilo\n1763=Talento\n325=Tempra\n326=Tipo\n327=Ulysse\n328=Uno"
+        }
+    },
+    {
+        "id": "330",
+        "name": "Ford",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:04 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=j0km47h2qo4h01e4sskai5j3t1; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:04 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n2603=B-MAX\n333=Bronco\n1747=C-MAX\n336=Cont�ur\n337=Cougar\n1559=Courier\n338=Crown Victoria\n339=Econoline\n340=Econovan\n2642=EcoSport\n2079=Edge\n341=Escape\n342=Escort\n343=Excursion\n344=Expedition\n345=Explorer\n346=F-150\n2531=F-250\n347=F-350\n5601=Festiva\n348=Fiesta\n2176=Flex\n349=Focus\n1914=Freestyle\n1716=Fusion\n350=Galaxy\n351=Granada\n5603=Grand C-Max\n354=Ka\n2209=Kuga\n356=Maverick\n358=Mondeo\n359=Mustang\n360=Orion\n361=Probe\n362=Puma\n363=Ranger\n1949=S-MAX\n364=Scorpio\n365=Sierra\n366=Taunus\n367=Taurus\n369=Thunderbird\n5223=Tourneo Connect\n5352=Tourneo Custom\n5224=Transit Connect\n5351=Transit Custom\n371=Windstar"
+        }
+    },
+    {
+        "id": "5526",
+        "name": "FSO",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:05 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=i4kp1vvmmjhpl46d2gblp8clf4; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:05 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n5527=Polonez"
+        }
+    },
+    {
+        "id": "2012",
+        "name": "Geely",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:06 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=a04h1bt0tdf9c4cq3142stunp7; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:06 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n2013=CK\n2651=Emgrand 7\n5470=Emgrand EC7\n2595=Emgrand X7\n2016=FC (Vision)\n2650=GC6\n2646=LC Cross\n2652=MK\n2015=MK Cross\n2509=SC7"
+        }
+    },
+    {
+        "id": "372",
+        "name": "GMC",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:06 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=ecj7gphouh9u2o140h8qd8kj51; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:06 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n2314=Acadia\n373=Envoy\n374=Jimmy\n376=Savana\n2520=Sierra\n2423=Terrain\n382=Yukon"
+        }
+    },
+    {
+        "id": "1726",
+        "name": "Great Wall",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:07 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=aqrk71t9k46c2vm4ermrjfqib0; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:07 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n1731=Deer\n1727=Hover\n2639=Hover H3\n5148=Hover H5\n2640=Hover H6\n5147=Hover M2\n2638=Hover M4\n1730=Pegasus\n2019=Peri\n1728=Safe\n2018=Wingle"
+        }
+    },
+    {
+        "id": "2215",
+        "name": "Hafei",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:08 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=gebc1tff5sh5k76ada51bj6pi4; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:08 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n2218=Brio"
+        }
+    },
+    {
+        "id": "5070",
+        "name": "Haima",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:09 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=j4milrrvfmqn731e002petf0t7; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:09 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n5072=3"
+        }
+    },
+    {
+        "id": "383",
+        "name": "Honda",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:09 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=vsgrqkhrno9g4l2seovm6aaav0; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:09 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n384=Accord\n390=City\n391=Civic\n392=Concerto\n393=CR-V\n394=CR-X\n2313=CR-Z\n2500=Crosstour\n398=Element\n399=Fit\n2050=FR-V\n401=HR-V\n402=Insight\n404=Integra\n405=Jazz\n407=Legend\n409=Logo\n413=Odyssey\n416=Passport\n417=Pilot\n418=Prelude\n2044=Ridgeline\n421=S2000\n423=Shuttle\n427=Stream"
+        }
+    },
+    {
+        "id": "1498",
+        "name": "Hummer",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:10 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=0d8l5k0rckft67revh5m45p2j1; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:10 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n1500=H2\n1560=H3"
+        }
+    },
+    {
+        "id": "433",
+        "name": "Hyundai",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:10 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=k9qelvbd32qt8v5clbn1eurnu1; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:10 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n434=Accent\n435=Atos\n5217=Avante\n437=Coupe\n5384=Creta\n439=Elantra\n2185=Equus\n441=Galloper\n2186=Genesis\n442=Getz\n5613=Grand Santa Fe\n2021=Grandeur\n445=H-1(Starex)\n446=H100\n2309=i10\n2201=i20\n2020=i30\n2414=i40\n2268=ix35\n2415=ix55\n447=Lantra\n449=Matrix\n450=Pony\n452=S Coupe\n453=Santa Fe\n454=Santamo\n2336=Solaris\n455=Sonata\n457=Terracan\n458=Tiburon\n459=Trajet\n1638=Tucson\n2390=Veloster\n460=XG"
+        }
+    },
+    {
+        "id": "1343",
+        "name": "Infiniti",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:11 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=v24in8jh6h0hvsuotlcuuuei80; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:11 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n1930=EX\n1344=FX\n1347=G\n1350=I\n2334=JX\n2102=M\n1354=Q\n1355=QX4\n2504=QX50\n1356=QX56\n2569=QX60\n2505=QX70\n2506=QX80"
+        }
+    },
+    {
+        "id": "2022",
+        "name": "Iran Khodro",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:12 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=jhtlv51aeputu9ed6c81ms57t0; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:12 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n2023=Samand"
+        }
+    },
+    {
+        "id": "461",
+        "name": "Isuzu",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:13 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=1jn48l8976r1tl2196gsuk8801; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:13 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n462=Amigo\n470=Gemini\n474=Midi\n476=Rodeo\n477=Trooper"
+        }
+    },
+    {
+        "id": "2030",
+        "name": "JAC",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:14 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=9beqtn35vdriuhmcskpc5inn75; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:14 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n5149=Refine"
+        }
+    },
+    {
+        "id": "526",
+        "name": "Jaguar",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:15 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=ks61falghbvt1sfta39ftoq2b6; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:15 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n5291=F-Pace\n529=S-Type\n531=X-Type\n2697=XE\n2095=XF\n532=XJ\n536=XJR\n5624=XK"
+        }
+    },
+    {
+        "id": "540",
+        "name": "Jeep",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:15 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=hd56t96i159sng3ij7b9h6ksn5; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:15 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n541=Cherokee\n2200=Commander\n1973=Compass\n542=Grand Cherokee\n543=Liberty\n2354=Patriot\n5008=Renegade\n544=Wrangler"
+        }
+    },
+    {
+        "id": "545",
+        "name": "Kia",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:16 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=aeh62rkjvmrn57gdlkkm8f51j0; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:16 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n547=Besta\n549=Carens\n550=Carnival\n1980=Cee'd\n1960=Cerato\n552=Clarus\n555=Joice\n556=Magentis\n2132=Mohave\n558=Optima\n1737=Picanto\n560=Pregio\n561=Pride\n2647=Quoris\n562=Retona\n563=Rio\n565=Sephia\n566=Shuma\n567=Sorento\n2195=Soul\n568=Spectra\n569=Sportage\n2196=Towner\n2231=Venga"
+        }
+    },
+    {
+        "id": "1279",
+        "name": "Lada (ВАЗ)",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:17 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=l4repuch224vtoajrclhr5qcb5; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:17 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n1280=1111 ���\n1282=2101\n1283=2102\n1284=2103\n1285=2104\n1286=2105\n1287=2106\n1288=2107\n1289=2108\n1290=2109\n1291=21099\n1292=2110\n1293=2111\n1294=2112\n5249=2113\n2411=2114\n1295=2115\n1297=2121 ����\n1304=2131 ����\n2398=Granta\n1281=Kalina\n2353=Largus\n2399=Priora\n5136=Vesta\n5173=XRAY"
+        }
+    },
+    {
+        "id": "572",
+        "name": "Lancia",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:17 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=0q3ohuhqk2rmgb6n5jj7oqqfk4; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:17 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n574=Dedra\n575=Delta\n578=Kappa\n579=Lybra\n2368=Musa\n1915=Phedra\n580=Prisma\n581=Thema\n1558=Thesis\n5628=Ypsilon\n5525=Zeta"
+        }
+    },
+    {
+        "id": "584",
+        "name": "Land Rover",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:18 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=v41rtj62v8567cmrif9u3nkfr3; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:18 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n585=Defender\n586=Discovery\n5509=Discovery Sport\n587=Freelander\n588=Range Rover\n2429=Range Rover Evoque\n2026=Range Rover Sport"
+        }
+    },
+    {
+        "id": "589",
+        "name": "Lexus",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:18 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=b1r172020vqsl514aeeoqgiun2; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:18 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n2335=CT\n590=ES\n591=GS\n592=GX\n2096=HS\n593=IS\n594=LS\n595=LX\n2584=NX\n596=RX\n597=SC"
+        }
+    },
+    {
+        "id": "2586",
+        "name": "Lifan",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:19 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=s7aiq7t1g4bvhk6ks9jepeegt4; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:19 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n2588=Breez\n2591=Smily\n2592=Solano\n5151=X50\n2593=�60"
+        }
+    },
+    {
+        "id": "601",
+        "name": "Lincoln",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:20 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=4gdevujketnb434tfuuhvursp4; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:20 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n604=LS\n605=Mark\n5777=MKT\n607=Navigator\n608=Town Car"
+        }
+    },
+    {
+        "id": "1625",
+        "name": "Maserati",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:21 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=c9r3gs6dlsgt4upirsl88d0tn1; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:21 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n5633=Biturbo\n2317=Gran Turismo\n5635=Levante"
+        }
+    },
+    {
+        "id": "634",
+        "name": "Mazda",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:21 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=os6rqk9uc1mqm7r8mc6ss8ir84; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:21 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n635=121\n636=2\n637=3\n638=323\n1902=5\n639=6\n640=626\n644=929\n2583=BT-50\n2397=CX-5\n1701=CX-7\n1934=CX-9\n654=Demio\n656=E-Series\n659=Familia\n663=Millenia\n665=MPV\n666=MX-3\n667=MX-5\n671=Premacy\n672=Protege\n674=RX-8\n679=Tribute\n681=Xedos 6\n682=Xedos 9"
+        }
+    },
+    {
+        "id": "683",
+        "name": "Mercedes-Benz",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:22 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=5717l3fk64h2hjcifgkrthor25; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:22 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n761=190 (W201)\n1642=A-Klasse\n1645=B-Klasse\n1990=C-Klasse (CL203)\n5747=C-Klasse (S202)\n1988=C-Klasse (S203)\n5748=C-Klasse (S204)\n1646=C-Klasse (W202)\n1656=C-Klasse (W203)\n1987=C-Klasse (W204)\n2636=C-Klasse (W205)\n2526=Citan\n747=CL\n2444=CLA\n2409=CLC\n751=CLK\n1734=CLS\n5754=E-Klasse (A124)\n5753=E-Klasse (C123)\n1650=E-Klasse (C124)\n2717=E-Klasse (C207)\n5749=E-Klasse (S123)\n1649=E-Klasse (S124)\n1652=E-Klasse (S210)\n5750=E-Klasse (S211)\n5751=E-Klasse (S212)\n1744=E-Klasse (W115)\n5170=E-Klasse (W123)\n1648=E-Klasse (W124)\n1651=E-Klasse (W210)\n1657=E-Klasse (W211)\n2094=E-Klasse (W212)\n5247=E-Klasse (W213)\n774=G-Klasse\n1944=GL-Klasse\n2537=GLA\n2718=GLC\n2675=GLE\n2040=GLK\n5250=GLS\n789=ML-Klasse\n1837=R-Klasse\n5757=S-Klasse (C126)\n5758=S-Klasse (C140)\n2087=S-Klasse (W116)\n1654=S-Klasse (W126)\n1655=S-Klasse (W140)\n797=S-Klasse (W220)\n1836=S-Klasse (W221)\n2435=S-Klasse (W222)\n811=SL\n812=SLK\n1910=V-Klasse\n818=Vaneo\n820=Viano\n821=Vito"
+        }
+    },
+    {
+        "id": "825",
+        "name": "Mercury",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:22 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=5nrrbh5g46jue1il5po73oq4s1; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:22 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n827=Cougar\n1715=Mystique\n830=Sable\n833=Villager"
+        }
+    },
+    {
+        "id": "1906",
+        "name": "MG",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:23 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=jk2tg3abnr4i8emcvvjpetoni7; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:23 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n2204=3\n2205=6\n5349=ZR\n5228=ZS\n5644=ZT"
+        }
+    },
+    {
+        "id": "1850",
+        "name": "Mini",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:24 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=mo9fcjv0dpujcp1qulva18fc47; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:24 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n2461=Clubman\n1851=Cooper\n2654=Countryman\n1852=One"
+        }
+    },
+    {
+        "id": "834",
+        "name": "Mitsubishi",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:24 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=4asf15r3k2o6dakaoshu0m7bl4; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:24 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n835=3000GT\n2184=ASX\n840=Carisma\n844=Colt\n848=Diamante\n852=Eclipse\n1924=Endeavor\n857=FTO\n860=Galant\n861=Grandis\n864=L200\n865=L300\n867=Lancer\n868=Lancer Evolution\n5348=Lancer X\n873=Mirage\n874=Montero\n5648=Montero Sport\n875=Outlander\n5649=Outlander XL\n876=Pajero\n5177=Pajero Pinin\n5176=Pajero Sport\n881=Sigma\n882=Space Gear\n883=Space Runner\n884=Space Star\n885=Space Wagon"
+        }
+    },
+    {
+        "id": "892",
+        "name": "Nissan",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:25 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=32l3acsh86t20jugvtvm358552; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:25 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n893=100NX\n1495=350Z\n2043=370Z\n899=Almera\n2312=Almera Tino\n900=Altima\n901=Armada\n906=Bluebird\n907=Caravan\n910=Cherry\n915=Cube\n5655=Frontier\n2263=Interstar\n2226=Juke\n926=Laurel\n2306=Leaf\n936=Maxima\n937=Micra\n940=Murano\n941=Navara\n1767=Note\n2459=NV200\n942=Pathfinder\n943=Patrol\n2227=Pixo\n945=Prairie\n1671=Primastar\n949=Primera\n1768=Qashqai\n5168=Qashqai+2\n952=Quest\n1929=Rogue\n956=Sentra\n957=Serena\n959=Sunny\n2260=Teana\n960=Terrano\n961=Terrano 2\n5651=Terrano 3\n1945=Tiida\n2403=Titan\n963=Vanette\n2181=Versa\n965=X-Terra\n964=X-Trail"
+        }
+    },
+    {
+        "id": "1364",
+        "name": "Oldsmobile",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:26 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=u5plcvordnfjmvbj185hnkivc2; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:26 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n1373=Delta\n1379=Silhouette"
+        }
+    },
+    {
+        "id": "966",
+        "name": "Opel",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:27 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=anf4db77inekveo9q8kp10u6t5; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:27 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n5183=Adam\n1591=Agila\n2180=Antara\n967=Arena\n968=Ascona\n1981=Astra F\n969=Astra G\n1982=Astra H\n2560=Astra J\n970=Calibra\n971=Campo\n5292=Cascada\n972=Combo\n973=Commodore\n974=Corsa\n976=Frontera\n2183=Insignia\n977=Kadett\n978=Manta\n1563=Meriva\n2530=Mokka\n979=Monterey\n981=Omega\n982=Record\n983=Senator\n984=Signum\n985=Sintra\n986=Tigra\n987=Vectra\n5778=Vivaro\n988=Zafira"
+        }
+    },
+    {
+        "id": "989",
+        "name": "Peugeot",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:27 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=rb06eppmcb0ghatkt94q9ljvk5; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:27 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n1965=1007\n991=106\n1926=107\n2616=2008\n992=205\n993=206\n1923=207\n2540=208\n2177=3008\n2548=301\n995=306\n996=307\n1927=308\n997=309\n2139=4007\n2617=4008\n998=405\n999=406\n1578=407\n1000=408\n2283=5008\n2262=508\n1004=605\n1006=607\n1008=806\n1009=807\n2199=Bipper\n1631=Expert\n1011=Partner"
+        }
+    },
+    {
+        "id": "1012",
+        "name": "Plymouth",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:28 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=oreornf9iqkoe0a05hr563fnv1; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:28 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n1014=Breeze\n1015=Grand Voyager\n1017=Neon\n1021=Voyager"
+        }
+    },
+    {
+        "id": "1022",
+        "name": "Pontiac",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:29 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=5qtlg1kjst65htk5g1ekdj2rb7; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:29 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n1024=Aztec\n1027=Firebird\n1028=Grand AM\n1037=Trans Sport\n1038=Vibe"
+        }
+    },
+    {
+        "id": "1485",
+        "name": "Porsche",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:29 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=ja33n8fdk531sjp9mpbsedid87; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:29 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n1486=911\n1492=Boxster\n1493=Cayenne\n1838=Cayman\n2558=Macan\n2100=Panamera"
+        }
+    },
+    {
+        "id": "1609",
+        "name": "Proton",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:30 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=1f30ikkra0nofj6s53s6tm41u4; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:30 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n1610=313\n1611=315\n1612=413\n1613=415\n1614=416\n1616=420\n1618=Persona"
+        }
+    },
+    {
+        "id": "5503",
+        "name": "Ravon",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:31 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=99fknsmg4rf5gu1dsdtqdc8ak1; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:31 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n5506=Nexia R3\n5504=R2\n5505=R4"
+        }
+    },
+    {
+        "id": "1039",
+        "name": "Renault",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:31 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=vo6n5auojq4g8rh2hdqomnt225; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:31 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n1042=11\n1043=19\n5683=20\n1044=21\n1045=25\n1040=5\n5775=Captur\n1046=Clio\n1047=Clio 2\n2035=Clio 3\n5423=Clio 4\n5018=Dokker\n2281=Duster\n1048=Espace\n1049=Express\n2279=Fluence\n5426=Grand Espace\n5273=Grand Scenic\n1051=Kangoo\n5328=Kaptur\n2081=Koleos\n1053=Laguna\n1751=Laguna 2\n1983=Laguna 3\n2282=Latitude\n1674=Logan\n1057=Megane\n2045=Megane 2\n2178=Megane 3\n1739=Modus\n1060=Rapid\n1061=Safrane\n2280=Sandero\n1994=Scenic\n1062=Scenic 2\n2259=Scenic 3\n5688=Scenic 4\n5685=Scenic RX4\n1063=Symbol\n5779=Trafic\n1065=Twingo\n1066=Vel Satis\n2458=Wind"
+        }
+    },
+    {
+        "id": "1067",
+        "name": "Rover",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:32 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=aqhh2o9mffn36trkpasme1i2c7; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:32 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n1070=100-serie\n1071=200-serie\n1072=25\n1073=400-serie\n1074=45\n1075=600-serie\n1076=75\n1077=800-serie\n1081=MGF\n1083=Montego\n5243=Streetwise"
+        }
+    },
+    {
+        "id": "1085",
+        "name": "Saab",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:33 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=40f1t61emqlt5obgj9ogrfiuc2; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:33 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n1086=9-3\n1087=9-5\n1691=9-7X\n1088=900\n1089=9000"
+        }
+    },
+    {
+        "id": "5517",
+        "name": "Santana",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:33 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=f3s5nl4g87b2c8hcs8p5ngtvr2; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:33 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n5518=PS-10"
+        }
+    },
+    {
+        "id": "1703",
+        "name": "Saturn",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:34 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=01mnb3so4apsapbaiif2h2ufs7; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:34 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n1707=SL\n1709=Vue"
+        }
+    },
+    {
+        "id": "2698",
+        "name": "Scion",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:34 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=p4r899sdpvauh0frhfvhqk0ne2; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:34 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n2699=FR-S\n2703=tC\n2705=xB"
+        }
+    },
+    {
+        "id": "1091",
+        "name": "Seat",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:35 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=gg9h1325ga94q8us9aeud67ql5; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:35 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n1092=Alhambra\n1903=Altea\n1093=Arosa\n1094=Cordoba\n1095=Ibiza\n1096=Inca\n1097=Leon\n1098=Malaga\n5697=Mii\n1101=Terra\n1102=Toledo"
+        }
+    },
+    {
+        "id": "1126",
+        "name": "Skoda",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:36 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=kamn1106iemhehesm29jv86q36; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:36 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n2615=Citigo\n1130=Fabia\n1131=Favorit\n1132=Felicia\n1133=Forman\n1134=Octavia\n2424=Rapid\n1943=Roomster\n1135=Superb\n2369=Yeti"
+        }
+    },
+    {
+        "id": "2449",
+        "name": "Smart",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:36 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=bfmueog1ak5tgab9f567fggul0; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:36 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n2452=Forfour\n2454=Fortwo\n2453=Roadster"
+        }
+    },
+    {
+        "id": "1597",
+        "name": "SsangYong",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:37 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=f9jgb39vnhhtensc7epck8bqs2; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:37 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n1968=Actyon\n1600=Istana\n1602=Korando\n1603=Kyron\n1604=Musso\n1605=Rexton\n2037=Rexton 2\n1606=Rodius"
+        }
+    },
+    {
+        "id": "1136",
+        "name": "Subaru",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:38 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=1ed6277heg3cpb3m1ccbttgej0; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:38 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n1712=B9 Tribeca\n1684=Baja\n1142=Forester\n1143=Impreza\n1144=Justy\n1145=Legacy\n1146=Leone\n1147=Libero\n1148=Outback\n2525=XV"
+        }
+    },
+    {
+        "id": "1155",
+        "name": "Suzuki",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:38 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=prtvk9ahqoikmem3jdapk1us21; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:38 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n1156=Aerio\n1157=Alto\n1158=Baleno\n1161=Carry\n2529=Equator\n1164=Esteem\n1167=Grand Vitara\n1168=Ignis\n1169=Jimny\n2319=Kizashi\n1172=Liana\n2042=Reno\n2270=Splash\n1176=Swift\n1900=SX4\n1741=Verona\n1177=Vitara\n1178=Wagon R+\n1180=XL-7"
+        }
+    },
+    {
+        "id": "5447",
+        "name": "Tata",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:39 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=j6hq43a42stqgah04bn39l0fb0; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:39 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n5449=Safari\n5450=Sumo"
+        }
+    },
+    {
+        "id": "2521",
+        "name": "Tesla",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:39 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=mmh9lbpo6cdmmtcq0mu64ejs33; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:39 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n2522=Model S\n5287=Model X"
+        }
+    },
+    {
+        "id": "5520",
+        "name": "Tianma",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:40 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=hmu3uv8hij6ujp8f88qncm4914; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:40 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n5521=Century"
+        }
+    },
+    {
+        "id": "1181",
+        "name": "Toyota",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:41 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=jb8urccf8g9uu5e2j6ul7nnbr7; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:41 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n1182=4Runner\n1962=Auris\n1546=Avalon\n1189=Avensis\n2321=Avensis Verso\n1940=Aygo\n1192=Camry\n5716=Camry Solara\n1193=Carina\n1194=Celica\n1196=Corolla\n2038=Corolla Verso\n1197=Crown\n5446=Cynos\n1745=Echo\n1969=FJ Cruiser\n1201=Hiace\n1582=Highlander\n1698=Hilux\n2267=iQ\n1203=Land Cruiser\n5731=Land Cruiser Prado\n1215=Lite Ace\n1213=Matrix\n1206=MR2\n1494=Picnic\n1207=Previa\n1208=Prius\n1209=RAV4\n1214=Sequoia\n1504=Sienna\n1579=Starlet\n2585=Tacoma\n1589=Tercel\n5458=Town Ace\n1567=Tundra\n2269=Urban Cruiser\n2121=Venza\n2392=Verso\n5464=Verso-S\n1212=Yaris\n5275=Yaris Verso"
+        }
+    },
+    {
+        "id": "5080",
+        "name": "Trabant",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:41 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=f1jlo5man7tbol1i86t9bkaqs4; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:41 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n5083=P601"
+        }
+    },
+    {
+        "id": "1216",
+        "name": "Volkswagen",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:42 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=517l4g857ma2ml184tuv1jfcm2; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:42 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n2320=Amarok\n1217=Beetle\n1218=Bora\n1219=Caddy\n1220=Corrado\n1221=Country\n5732=Derby\n2075=Eos\n1984=Fox\n1689=Golf 1\n1222=Golf 2\n1686=Golf 3\n1687=Golf 4\n1688=Golf 5\n2123=Golf 6\n2643=Golf 7\n2656=Golf Plus\n1223=Jetta\n1224=Kaefer\n1226=Lupo\n5261=Passat Alltrack\n1758=Passat B2\n1754=Passat B3\n1755=Passat B4\n1227=Passat B5\n1756=Passat B6\n2284=Passat B7\n2693=Passat B8\n2074=Passat CC\n1228=Phaeton\n5309=Pointer\n1229=Polo\n2104=Routan\n1425=Santana\n1231=Scirocco\n1230=Sharan\n1232=T2\n2672=T3\n1233=T4\n2115=T4 Caravelle\n2114=T4 Multivan\n2112=T5 Caravelle\n2111=T5 Multivan\n2113=T5 Shuttle\n1549=T5 Transporter\n5340=T6 Caravelle\n1974=Tiguan\n1235=Touareg\n1236=Touran\n2674=up!\n1237=Vento"
+        }
+    },
+    {
+        "id": "1238",
+        "name": "Volvo",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:43 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=he30sivdq8ga9b46et91iua786; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:43 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n1246=240\n1247=340\n1239=360\n1240=440\n1241=460\n1242=480\n1243=740\n1581=760\n1244=850\n1245=940\n1248=960\n2092=C30\n1250=C70\n1255=S40\n1256=S60\n1257=S70\n1258=S80\n1259=S90\n1260=V40\n1769=V50\n2523=V60\n1261=V70\n2098=XC60\n1262=XC70\n1263=XC90"
+        }
+    },
+    {
+        "id": "5437",
+        "name": "Vortex",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:43 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=les8et6e4atn5r84d4t9a9cla4; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:43 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n5439=Estina\n5438=Tingo"
+        }
+    },
+    {
+        "id": "1857",
+        "name": "Wartburg",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:44 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=38563v82q6u2748hb6rl9dbqu5; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:44 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n1858=353"
+        }
+    },
+    {
+        "id": "5066",
+        "name": "ZX",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:45 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=kamg6g0tj0u7ngs20g7nlpss85; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:45 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n5068=Landmark"
+        }
+    },
+    {
+        "id": "5076",
+        "name": "Богдан",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:45 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=ln9o9o8dprof3k2dvv8a5pmf30; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:45 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n5077=2310\n5740=2312"
+        }
+    },
+    {
+        "id": "1310",
+        "name": "ГАЗ",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:46 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=q0ldpin1u14ab7iaesgv5ltua7; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:46 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n5329=12 (���)\n1458=21\n1461=24\n1462=31\n1463=69\n1457=M-20\n5277=Volga Siber"
+        }
+    },
+    {
+        "id": "1551",
+        "name": "ЗАЗ",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:46 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=j4dpjt95p45oj33d9skj9u6td5; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:46 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n1552=1102 ������\n5251=1103 Slavuta\n1553=965\n1555=968\n2422=Chance\n2394=Lanos\n2395=Pick-Up\n2420=Sens\n2418=Vida\n1557=��"
+        }
+    },
+    {
+        "id": "2894",
+        "name": "ИЖ",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:47 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=deevqh0ost3mk5ec0qv4tcc4e1; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:47 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n5108=2125\n5540=2126\n5048=2715\n5049=2717"
+        }
+    },
+    {
+        "id": "2345",
+        "name": "ЛуАЗ",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:48 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=c6sbu7gan26ees4co2imr0nrl2; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:48 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n2346=969"
+        }
+    },
+    {
+        "id": "2051",
+        "name": "Москвич",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:48 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=c1upbb1o9921no5talfp2qpqt5; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:48 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n2053=2137\n2054=2138\n2055=2140\n2056=2141\n2058=401\n2059=402\n2060=403\n2062=407\n2063=408\n5744=410\n2064=412\n2070=��������"
+        }
+    },
+    {
+        "id": "5252",
+        "name": "РАФ",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:49 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=6nm3u98h955u0noqito7pkdob4; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:49 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n5253=2203"
+        }
+    },
+    {
+        "id": "1464",
+        "name": "УАЗ",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:50 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=8jqvdf382cehp7ts888n3fhdj1; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:50 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n1465=2206\n5745=2360\n1466=2363 �����\n1467=31\n1469=3909\n1477=452\n1478=469\n5156=Hunter\n1592=�������"
+        }
+    },
+    {
+        "id": "5019",
+        "name": "Эксклюзив",
+        "model_array": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 20 Jul 2017 15:00:50 GMT",
+                "content-type": "text/html; charset=WINDOWS-1251",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "PHPSESSID=jtv9p6ie7rmt8j9lp20forjdv4; path=/; domain=.av.by"
+                ],
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "last-modified": "Thu, 20 Jul 2017 15:00:50 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache"
+            },
+            "body": "0=�����\n5541=�����\n5416=��������\n5415=������� �������\n5417=����\n5023=������ ������\n5024=�����\n5025=�����������\n5026=�����"
+        }
+    }
+]
