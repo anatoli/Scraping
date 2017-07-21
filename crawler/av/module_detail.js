@@ -8,10 +8,19 @@ var cheerio = require('cheerio');
 var resolve = require('url').resolve;
 var fs = require('fs');
 
-var results = [];
-var call_stack = [];
 
-var module_detail = module.exports = function (car_params) { //brand, model, year_from, year_to,price_from, price_to
+var call_stack = [];
+var results = [];
+
+var results_module = function () {
+    return results.filter( function (result) {
+        if (result.id) {
+            return result;
+        }
+    })
+}
+
+var module_detail = function (car_params) { //brand, model, year_from, year_to,price_from, price_to
 
     var q = tress(function(url, callback){
         needle.get(url, function(err, res){
@@ -22,22 +31,22 @@ var module_detail = module.exports = function (car_params) { //brand, model, yea
 
             var $ = cheerio.load(res.body);
 
-            $('.listing-item ').eq(1)//each(function (i) {
+            $('.listing-item ').each(function (i) {
                 results.push({
-                    name: $('.listing-item-title').eq(1).text().trim(),
-                    link: $('.listing-item-title h4 > a').eq(1).attr('href'),
-                    description: $('.listing-item-desc').eq(1).text().trim(),
-                    value: $('.listing-item-message-in').eq(1).text().trim(),
-                    year: $('.listing-item-price span').eq(1).text().trim(),
+                    name: $('.listing-item-title').eq(i).text().trim(),
+                    link: $('.listing-item-title h4 > a').eq(i).attr('href'),
+                    description: $('.listing-item-desc').eq(i).text().trim(),
+                    value: $('.listing-item-message-in').eq(i).text().trim(),
+                    year: $('.listing-item-price span').eq(i).text().trim(),
                     price: {
-                        BYN:$('.listing-item-price strong').eq(1).text().trim(),
-                        USD:$('.listing-item-price small').eq(1).text().trim()
+                        BYN:$('.listing-item-price strong').eq(i).text().trim(),
+                        USD:$('.listing-item-price small').eq(i).text().trim()
                     },
-                    location: $('.listing-item-location').eq(1).text().trim(),
-                    img: $('.product-thumb img').attr('src'),
+                    location: $('.listing-item-location').eq(i).text().trim(),
+                    img: $('.listing-item-image-in img').attr('src'),
 
                 });
-            // });
+            });
 
             $('.pages-numbers-link').each(function() {
                 call_stack.push($(this).attr('href'))
@@ -49,7 +58,6 @@ var module_detail = module.exports = function (car_params) { //brand, model, yea
             // $('.bpr_next>a').each(function() {
             //     q.push(resolve(URL+'', $(this).attr('href')));
             // });
-            console.log(results);
             callback();
         });
     }, -1000);
@@ -69,6 +77,7 @@ var module_detail = module.exports = function (car_params) { //brand, model, yea
         }, 3000);
         console.log('finish');
 
+
     }
     q.retry = function(){
         q.pause();
@@ -80,8 +89,10 @@ var module_detail = module.exports = function (car_params) { //brand, model, yea
         }, 300000); // 5минут av. часто валит сокет изза парсинга
     }
 
-    q.push("https://cars.av.by/search?brand_id%5B%5D="+car_params.brand+"&model_id%5B%5D="+car_params.model+"&year_from="+car_params.year_from+"&year_to="+car_params.year_to+"&currency=USD&price_from="+car_params.price_from+"price_to="+car_params.price_to);
-
-    return results
-
+    var url = "https://cars.av.by/search?brand_id%5B%5D="+car_params.brand+"&model_id%5B%5D="+car_params.model+"&year_from="+car_params.yearFrom+"&year_to="+car_params.yearTo+"&currency=USD&price_from="+car_params.costFrom+"price_to="+car_params.costTo;
+    q.push(url);
+    return results;
 }
+
+module.exports.results_module = results_module;
+module.exports.module_detail = module_detail;

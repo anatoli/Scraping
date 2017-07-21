@@ -69,4 +69,20 @@
     </div>
   </div>
 
+  <div class="row">
+    <div class="col-md-10" ng-repeat="carFind in carsFind">
+      <div class="col-md-2">
+        <img src={{carFind.img}}>
+      </div>
+      <div class="col-md-9">
+        <p>{{carFind.name}}</p>
+        <p>{{carFind.description}}</p>
+        <p>{{carFind.year}}{{carFind.value}}</p>
+        <p><span>BYN:</span>{{carFind.price.BYN}}<span>USD:</span>{{carFind.price.USD}}</p>
+        <p>{{carFind.location}}</p>
+      </div>
+
+    </div>
+  </div>
+
 </div>

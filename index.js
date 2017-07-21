@@ -7,8 +7,8 @@ var fs = require('fs');
 app.set('views', __dirname + '/public');
 app.engine('html', require('ejs').renderFile);
 app.set('view engine', 'ejs');
-var AV = require('./crawler/av/index');
-// AV();
+var AV = require('./crawler/av/module_detail');
+
 
 app.use('/', express.static(__dirname + '/public'));
 app.use('/', express.static(__dirname + '/public/components'));
@@ -31,8 +31,9 @@ app.get('/brendCard', function (req, res) {
 })
 
 app.get('/api/crawlersParams', function (req, res) {
-    console.log(req.query);
-    res.send(req.query);
+    var p = AV.module_detail(req.query);
+    console.log(AV.results_module());
+    res.send(p);
 })
 
 

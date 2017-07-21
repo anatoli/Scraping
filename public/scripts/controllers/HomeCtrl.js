@@ -65,9 +65,18 @@ angular.module('siBelApp')
       // $scope.Push();
         $http({
             method: 'GET',
-            url: '/api/crawlersParams?brand='+$scope.car.id+'model='+$scope.model.id+'costFrom='+$scope.costFrom+'costTo='+$scope.costTo+'yearFrom='+$scope.yearFrom+'yearTo='+$scope.yearTo
+            url: '/api/crawlersParams',
+            params:{
+                brand:$scope.car.id ,
+                model:$scope.model.id ,
+                costFrom:$scope.costFrom ,
+                costTo:$scope.costTo,
+                yearFrom:$scope.yearFrom ,
+                yearTo:$scope.yearTo,
+            }
         }).then(function successCallback(res) {
-
+            console.log(res.data);
+            $scope.carsFind = res.data;
         }, function errorCallback(res) {
             console.log(res);
         });
