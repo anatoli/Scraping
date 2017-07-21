@@ -65,7 +65,7 @@ var AV = module.exports = function () { // brand, model, year_from, year_to,pric
                     })
                 }
             });
-            callback();
+            // callback();
         });
     }, -1000);
 

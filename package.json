@@ -9,13 +9,15 @@
   "dependencies": {
     "cheerio": "^0.20.0",
     "cllc": "0.0.10",
+    "ejs": "^2.5.6",
+    "express": "^4.15.3",
     "http": "0.0.0",
     "https": "^1.0.0",
+    "jade": "^1.11.0",
     "needle": "^1.0.0",
     "request": "^2.81.0",
     "request-promise": "^4.2.1",
     "request-sync": "^1.0.0",
-    "sync-request": "^4.1.0",
     "tress": "^1.0.0"
   }
 }

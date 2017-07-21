@@ -1,0 +1,46 @@
+{
+  "name": "si-bel",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "^1.9.1",
+    "jquery-migrate": "^1.3",
+    "angular": "^1.4.0",
+    "bootstrap": "^3.2.0",
+    "angular-animate": "^1.4.0",
+    "angular-cookies": "^1.4.0",
+    "angular-resource": "^1.4.0",
+    "angular-route": "^1.4.0",
+    "angular-sanitize": "^1.4.0",
+    "angular-touch": "^1.5.8",
+    "lightslider": "^1.1.5",
+    "angular-ui-router": "^0.3.1",
+    "angular-bootstrap": "^2.1.3",
+    "animate.css": "^3.5.2",
+    "angular-translate": "^2.12.1",
+    "angular-translate-loader-url": "^2.12.1",
+    "angular-translate-loader-partial": "^2.12.1",
+    "bootstrap-carousel-swipe": "*",
+    "angular-file-upload": "^2.3.4",
+    "leaflet": "leaflet-dist#^0.7.2",
+    "angular-leaflet-directive": "^0.10.0",
+    "angular-breadcrumb": "^0.5.0",
+    "echarts": "^3.3.2",
+    "echarts-ng": "^0.3.13",
+    "angular-ui-select": "^0.19.8"
+  },
+  "devDependencies": {
+    "angular-mocks": "^1.4.0",
+    "angular-translate": "^2.12.1"
+  },
+  "appPath": "app",
+  "moduleName": "AvtoElectricApp",
+  "overrides": {
+    "bootstrap": {
+      "main": [
+        "less/bootstrap.less",
+        "dist/css/bootstrap.css",
+        "dist/js/bootstrap.js"
+      ]
+    }
+  }
+}

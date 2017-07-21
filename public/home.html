@@ -1,0 +1,205 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>ТЕХЦЕНТР</title>
+    <meta name="description" content="">
+    <!--<meta name="viewport" content="width=device-width">-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    <link rel="icon" type="image/png" href="images/favicon_16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="images/favicon_32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="images/favicon_96.png" sizes="96x96">
+    <!-- build:css(.) styles/vendor.css -->
+    <!-- bower:css -->
+    <link rel='stylesheet' href='components/bower_components/angular-ui-select/dist/select.css' />
+    <!-- endbower -->
+    <!-- endbuild -->
+    <!-- build:css(.tmp) styles/main.css -->
+
+    <!-- endbuild -->
+
+    <link rel='stylesheet' href='components/bower_components/bootstrap/dist/css/bootstrap.css' />
+    <link rel='stylesheet' href='components/bower_components/lightslider/dist/css/lightslider.min.css' />
+    <link rel='stylesheet' href='components/bower_components/animate.css/animate.css' />
+    <link rel='stylesheet' href='components/bower_components/leaflet/leaflet.css' />
+
+    <link rel="stylesheet" href="styles/main.css">
+
+
+    <!-- bootstrap css -->
+    <link rel="stylesheet" href="styles/bootstrap.min.css">
+    <!-- preloader css -->
+    <link rel="stylesheet" href="styles/introLoader.min.css">
+    <!-- animate css -->
+    <link rel="stylesheet" href="styles/animate.css" type="text/css" />
+    <!-- owl carousel styles -->
+    <link rel="stylesheet" href="styles/owl.carousel.css" type="text/css" />
+    <!-- date picker css -->
+    <link rel="stylesheet" href="styles/datepicker.css">
+    <!-- main style -->
+    <link rel="stylesheet" href="styles/style.css">
+
+    <!-- google fonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,700,800,600' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,700,300,500' rel='stylesheet' type='text/css'>
+    <!-- modernizr -->
+    <script src="js/modernizr.js"></script>
+    <!--[if lt IE 9]>
+      <script src="js/html5shiv.js"></script>
+      <script src="js/respond.min.js"></script>
+
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700&amp;subset=cyrillic-ext" rel="stylesheet">
+    <!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.css">-->
+    <link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/leaflet.fullscreen.css' rel='stylesheet' />
+  </head>
+  <body ng-app="siBelApp">
+    <!--[if lte IE 8]>
+      <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <!-- Add your site or application content here -->
+    <div ui-view>
+      <!--<header id="header" class="navbar-fixed-top border-separator-bottom"><div id="header-wrap" ui-view="header"></div></header>-->
+      <div class="" ui-view="container"></div>
+      <!--<footer class="container-fluid border-separator-top" id="mainFooter" ui-view="footer"></footer>-->
+    </div>
+
+
+    <!--<div class="container">-->
+    <!--<div style="width: 100%" ng-view=""></div>-->
+    <!--</div>-->
+
+
+     <!--Google Analytics: change UA-XXXXX-X to be your site's ID-->
+
+    <script src='components/bower_components/echarts/dist/echarts.min.js'></script>
+    <!-- build:js(.) scripts/vendor.js -->
+    <!-- bower:js -->
+    <script src="components/bower_components/jquery/dist/jquery.js"></script>
+    <script src="components/bower_components/jquery-migrate/jquery-migrate.js"></script>
+    <script src="components/bower_components/angular/angular.js"></script>
+    <script src="components/bower_components/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="components/bower_components/angular-animate/angular-animate.js"></script>
+    <script src="components/bower_components/angular-cookies/angular-cookies.js"></script>
+    <script src="components/bower_components/angular-resource/angular-resource.js"></script>
+    <script src="components/bower_components/angular-route/angular-route.js"></script>
+    <script src="components/bower_components/angular-sanitize/angular-sanitize.js"></script>
+    <script src="components/bower_components/angular-touch/angular-touch.js"></script>
+    <script src="components/bower_components/angular-ui-router/release/angular-ui-router.js"></script>
+    <script src="components/bower_components/angular-bootstrap/ui-bootstrap-tpls.js"></script>
+    <script src="components/bower_components/angular-translate/angular-translate.js"></script>
+    <script src="components/bower_components/angular-translate-loader-url/angular-translate-loader-url.js"></script>
+    <script src="components/bower_components/angular-translate-loader-partial/angular-translate-loader-partial.js"></script>
+    <script src="components/bower_components/angular-file-upload/dist/angular-file-upload.min.js"></script>
+    <script src="components/bower_components/angular-leaflet-directive/dist/angular-leaflet-directive.js"></script>
+    <script src="components/bower_components/angular-breadcrumb/release/angular-breadcrumb.js"></script>
+    <script src="components/bower_components/angular-ui-select/dist/select.js"></script>
+    <!-- endbower -->
+    <!-- endbuild -->
+
+
+    <!--<script-->
+      <!--src="https://code.jquery.com/jquery-2.2.4.js"-->
+      <!--integrity="sha256-iT6Q9iMJYuQiMWNd9lDyBUStIq/8PuOW33aOqmvFpqI="-->
+      <!--crossorigin="anonymous"></script>-->
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/lightslider/1.1.6/js/lightslider.min.js'></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular-animate.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular-cookies.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular-resource.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular-sanitize.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular-touch.js"></script>
+    <script src='https://rawgit.com/ghostbar/angular-file-model/master/angular-file-model.js'></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.3.2/angular-ui-router.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/2.3.1/ui-bootstrap-tpls.min.js"></script>
+    <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/2.3.1/ui-bootstrap.min.js"></script>-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-leaflet-directive/0.10.0/angular-leaflet-directive.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-breadcrumb/0.5.0/angular-breadcrumb.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-translate/2.13.1/angular-translate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-translate/2.13.1/angular-translate-loader-url/angular-translate-loader-url.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-file-upload/2.4.0/angular-file-upload.min.js"></script>
+    <script src="components/bower_components/leaflet/leaflet.js"></script>
+    <script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/Leaflet.fullscreen.min.js'></script>
+
+
+    <script src='components/bower_components/echarts-ng/dist/echarts-ng.js'></script>
+    <script src='components/bower_components/bootstrap-carousel-swipe/carousel-swipe.js'></script>
+    <script src='components/bower_components/lightslider/dist/js/lightslider.min.js'></script>
+    <!-- build:js({.tmp,app}) scripts/scripts.js -->
+
+
+        <script src="scripts/app.js"></script>
+        <script src="scripts/controllers/HomeCtrl.js"></script>
+
+        <!--<?php src="send.php"?>-->
+        <!-- endbuild -->
+
+    <!--<script>-->
+      <!--!function(A,n,g,u,l,a,r){A.GoogleAnalyticsObject=l,A[l]=A[l]||function(){-->
+          <!--(A[l].q=A[l].q||[]).push(arguments)},A[l].l=+new Date,a=n.createElement(g),-->
+        <!--r=n.getElementsByTagName(g)[0],a.src=u,r.parentNode.insertBefore(a,r)-->
+      <!--}(window,document,'script','https://www.google-analytics.com/analytics.js','ga');-->
+
+      <!--ga('create', 'UA-XXXXX-X');-->
+      <!--ga('send', 'pageview');-->
+    <!--</script>-->
+    <script>
+      $("#myCarousel").carousel({
+        swipe: 30 // percent-per-second, default is 50. Pass false to disable swipe
+      });
+    </script>
+    <!--&lt;!&ndash; Yandex.Metrika counter &ndash;&gt;-->
+    <!--<script type="text/javascript">-->
+      <!--(function (d, w, c) {-->
+        <!--(w[c] = w[c] || []).push(function() {-->
+          <!--try {-->
+            <!--w.yaCounter40309365 = new Ya.Metrika({-->
+              <!--id:40309365,-->
+              <!--clickmap:true,-->
+              <!--trackLinks:true,-->
+              <!--accurateTrackBounce:true,-->
+              <!--webvisor:true,-->
+              <!--trackHash:true-->
+            <!--});-->
+          <!--} catch(e) { }-->
+        <!--});-->
+
+        <!--var n = d.getElementsByTagName("script")[0],-->
+          <!--s = d.createElement("script"),-->
+          <!--f = function () { n.parentNode.insertBefore(s, n); };-->
+        <!--s.type = "text/javascript";-->
+        <!--s.async = true;-->
+        <!--s.src = "https://mc.yandex.ru/metrika/watch.js";-->
+
+        <!--if (w.opera == "[object Opera]") {-->
+          <!--d.addEventListener("DOMContentLoaded", f, false);-->
+        <!--} else { f(); }-->
+      <!--})(document, window, "yandex_metrika_callbacks");-->
+  <!--</script>-->
+
+
+
+    <!--<noscript><div><img src="https://mc.yandex.ru/watch/40309365" style="position:absolute; left:-9999px;" alt="" /></div></noscript>-->
+    <!-- /Yandex.Metrika counter -->
+
+    <!-- Jquery and javascript files -->
+    <script type="text/javascript" src="js/jquery-2.1.1.js"></script>
+    <!-- date picker js -->
+    <script type="text/javascript" src="js/datepicker.js"></script>
+    <!-- bootstrap 3.3.6 js -->
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <!-- owl carousel js-->
+    <script type="text/javascript" src="js/owl.carousel.js"></script>
+    <!-- smooth scroll js -->
+    <script type="text/javascript" src="js/smoothscroll.js"></script>
+    <!-- preloader js -->
+    <script type="text/javascript" src="js/jquery.introLoader.pack.min.js"></script>
+    <!-- custom scripts -->
+    <script type="text/javascript" src="js/script.js"></script>
+</body>
+</html>
