@@ -30,6 +30,11 @@ app.get('/brendCard', function (req, res) {
     readable.pipe(res);
 })
 
+app.get('/api/crawlersParams', function (req, res) {
+    console.log(req.query);
+    res.send(req.query);
+})
+
 
 app.listen(4000, function () {
     console.log('Example app listening on port 3000!')

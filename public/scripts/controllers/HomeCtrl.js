@@ -62,7 +62,15 @@ angular.module('siBelApp')
 
 
     $scope.Search = function () {
-      $scope.Push();
+      // $scope.Push();
+        $http({
+            method: 'GET',
+            url: '/api/crawlersParams?brand='+$scope.car.id+'model='+$scope.model.id+'costFrom='+$scope.costFrom+'costTo='+$scope.costTo+'yearFrom='+$scope.yearFrom+'yearTo='+$scope.yearTo
+        }).then(function successCallback(res) {
+
+        }, function errorCallback(res) {
+            console.log(res);
+        });
       // $scope.Clear();
       console.log($scope.searchParams);
     };
